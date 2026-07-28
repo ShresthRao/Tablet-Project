@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/lib/CM4IO.kicad_sym")(options "")(descr "Raspberry Pi CM4 IO official symbols, project local copy"))
+  (lib (name "Tablet_Project")(type "KiCad")(uri "${KIPRJMOD}/lib/Tablet_Project.kicad_sym")(options "")(descr "Custom Tablet easy-search symbols for Luckfox connector parts"))
+)

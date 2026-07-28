@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "jlc_parts")(type "KiCad")(uri "${KIPRJMOD}/jlc_parts.pretty")(options "")(descr "Project local JLC/EasyEDA imported footprints"))
+  (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/lib/CM4IO.pretty")(options "")(descr "Raspberry Pi CM4 IO official footprints, project local copy"))
+  (lib (name "Hirose_DF40")(type "KiCad")(uri "${KIPRJMOD}/lib/Hirose_DF40.pretty")(options "")(descr "Project local copy of KiCad official Hirose DF40 100-pin connector footprint"))
+  (lib (name "Tablet_Project")(type "KiCad")(uri "${KIPRJMOD}/lib/Tablet_Project.pretty")(options "")(descr "Custom Tablet easy-search footprints for Luckfox/HDMI parts"))
+)
