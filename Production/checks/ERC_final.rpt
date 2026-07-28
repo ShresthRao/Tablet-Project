@@ -1,0 +1,117 @@
+ERC report (2026-07-05T18:15:51, Encoding UTF8)
+Report includes: Errors, Warnings
+
+***** Sheet /
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(262.89 mm, 224.79 mm): Symbol R23 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(270.51 mm, 224.79 mm): Symbol R22 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(275.59 mm, 93.98 mm): Symbol R2 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(278.13 mm, 224.79 mm): Symbol R21 [R]
+[lib_symbol_mismatch]: Symbol 'USB_C_Receptacle_USB2.0_16P' doesn't match copy in library 'Connector'
+    ; warning
+    @(280.67 mm, 341.63 mm): Symbol J2 [USB_C_Receptacle_USB2.0_16P]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(280.67 mm, 379.73 mm): Symbol R18 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(285.75 mm, 224.79 mm): Symbol R24 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(288.29 mm, 196.85 mm): Symbol R39 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(290.83 mm, 379.73 mm): Symbol R17 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(293.37 mm, 224.79 mm): Symbol R19 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(302.26 mm, 450.85 mm): Symbol R16 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(308.61 mm, 99.06 mm): Symbol R1 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(327.66 mm, 229.87 mm): Symbol R20 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(349.25 mm, 74.93 mm): Symbol R3 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(349.25 mm, 83.82 mm): Symbol R4 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(351.79 mm, 57.15 mm): Symbol R38 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(372.11 mm, 63.50 mm): Symbol R37 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(417.83 mm, 532.13 mm): Symbol R30 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(417.83 mm, 541.02 mm): Symbol R31 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(434.34 mm, 516.89 mm): Symbol R14 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(434.34 mm, 534.67 mm): Symbol R15 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(461.01 mm, 537.21 mm): Symbol R29 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(472.44 mm, 400.05 mm): Symbol R8 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(476.25 mm, 537.21 mm): Symbol R28 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(480.06 mm, 400.05 mm): Symbol R7 [R]
+[lib_symbol_mismatch]: Symbol 'Micro_SD_Card_Det_Hirose_DM3AT' doesn't match copy in library 'Connector'
+    ; warning
+    @(482.60 mm, 118.11 mm): Symbol J4 [Micro_SD_Card_Det_Hirose_DM3AT]
+[lib_symbol_mismatch]: Symbol 'USB_C_Receptacle_USB2.0_16P' doesn't match copy in library 'Connector'
+    ; warning
+    @(490.22 mm, 340.36 mm): Symbol J1 [USB_C_Receptacle_USB2.0_16P]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(490.22 mm, 400.05 mm): Symbol R6 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(491.49 mm, 537.21 mm): Symbol R27 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(492.76 mm, 400.05 mm): Symbol R5 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(505.46 mm, 537.21 mm): Symbol R26 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(519.43 mm, 537.21 mm): Symbol R25 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(541.02 mm, 468.63 mm): Symbol R32 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(551.18 mm, 468.63 mm): Symbol R33 [R]
+[lib_symbol_mismatch]: Symbol 'R' doesn't match copy in library 'Device'
+    ; warning
+    @(561.34 mm, 468.63 mm): Symbol R34 [R]
+
+ ** ERC messages: 35  Errors 0  Warnings 35
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters
