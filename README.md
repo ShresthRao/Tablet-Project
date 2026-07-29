@@ -33,4 +33,16 @@ Color Gamut: 72% NTSC
 Raspberry Pi OS (64-bit) with VIEKK drivers
 
 ## Screenshots of the design:
+### Schematic
+
 ### PCB
+#### Zoned
+
+#### Un-Zoned
+
+### CAD
+#### Assembly
+
+#### Bottom Case
+
+#### Top Case
