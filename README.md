@@ -42,7 +42,12 @@ Raspberry Pi OS (64-bit) with VIEKK drivers
 
 ### CAD
 #### Assembly
-<img src="./Assets/3D model Assets/Front/Assembly_Front.png" />
+<figure><img src="./Assets/3D model Assets/Front/Assembly_Front.png" alt="Assembly Front"><figcaption>File: ./Assets/3D model Assets/Front/Assembly_Front.png</figcaption></figure>
+
 #### Bottom Case
 
+
 #### Top Case
+
+
+****
