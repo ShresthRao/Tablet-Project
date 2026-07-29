@@ -34,11 +34,35 @@ Raspberry Pi OS (64-bit) with VIEKK drivers
 
 ## Screenshots of the design:
 ### Schematic
+#### Full Screenshot
+<img src="Assets/PCB%20%26%20Schematic%20Assets/Schematic/Full%20Schematic.png" alt="Full Schematic Overview">
+
+#### Part-Wise screenshots
+<img src="Assets/PCB%20%26%20Schematic%20Assets/Schematic/1.png" alt="Schematic Page 1">
+<img src="Assets/PCB%20%26%20Schematic%20Assets/Schematic/2.png" alt="Schematic Page 2">
+<img src="Assets/PCB%20%26%20Schematic%20Assets/Schematic/3.png" alt="Schematic Page 3">
+<img src="Assets/PCB%20%26%20Schematic%20Assets/Schematic/4.png" alt="Schematic Page 4">
+<img src="Assets/PCB%20%26%20Schematic%20Assets/Schematic/5.png" alt="Schematic Page 5">
+<img src="Assets/PCB%20%26%20Schematic%20Assets/Schematic/6.png" alt="Schematic Page 6">
+<img src="Assets/PCB%20%26%20Schematic%20Assets/Schematic/7.png" alt="Schematic Page 7">
+<img src="Assets/PCB%20%26%20Schematic%20Assets/Schematic/8.png" alt="Schematic Page 8">
+<img src="Assets/PCB%20%26%20Schematic%20Assets/Schematic/9.png" alt="Schematic Page 9">
 
 ### PCB
 #### Zoned
+<img src="Assets/PCB%20%26%20Schematic%20Assets/Zones/All_Zones.png" alt="All Layers With Zones">
+<img src="Assets/PCB%20%26%20Schematic%20Assets/Zones/B.Cu_Zones.png" alt="Bottom Copper With Zones">
+<img src="Assets/PCB%20%26%20Schematic%20Assets/Zones/F.Cu_Zones.png" alt="Front Copper With Zones">
+<img src="Assets/PCB%20%26%20Schematic%20Assets/Zones/Ground_Zones.png" alt="Ground Copper With Zones">
+<img src="Assets/PCB%20%26%20Schematic%20Assets/Zones/Power_Zones.png" alt="Power Copper With Zones">
+
 
 #### Un-Zoned
+<img src="Assets/PCB%20%26%20Schematic%20Assets/No-zones/All_NoZones.png" alt="All Layers No Zones">
+<img src="Assets/PCB%20%26%20Schematic%20Assets/No-zones/Blue_NoZones.png" alt="Blue Layer No Zones">
+<img src="Assets/PCB%20%26%20Schematic%20Assets/No-zones/F.Cu_NoZones.png" alt="Front Copper No Zones">
+<img src="Assets/PCB%20%26%20Schematic%20Assets/No-zones/Ground_NoZones.png" alt="Ground Layer No Zones">
+<img src="Assets/PCB%20%26%20Schematic%20Assets/No-zones/Power_NoZones.png" alt="Power Layer No Zones">
 
 ### CAD
 #### Assembly
