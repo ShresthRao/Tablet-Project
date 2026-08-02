@@ -27,7 +27,7 @@ Color Gamut: 72% NTSC
 ### Case (total size of custom tablet)
 202 mm width
 378 mm length
-23 mm tall
+24 mm tall
 
 ### Software
 Raspberry Pi OS (64-bit) with VIEKK drivers
