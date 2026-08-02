@@ -80,4 +80,24 @@ Raspberry Pi OS (64-bit) with VIEKK drivers
 
 <img src="Assets/3D%20model%20Assets/Side/Top_Side.png" alt="Top Side View">
 
+## BOM:
+-- All prices in USD --
+Includes BOM included in Production/assembly files.
+2 X NOVA 9060100 8000mAh 3.7V Micro LiPo Battery Pack with PCB and 100mm Cable batteries lined in paralell. - - 18.65
+4 X R25-1001102 standoffs for CM4 - - 1.71
+1 X CM4104000 module - - 93.11
+JLCPCB manufactured PCB  - - 279.95
+1 X VIEKK VK1200 V2 device. - - 167.72
+Heat shrink tubing kit - - 1.65
+Kapton tape - - 1.03
+Multimeter - - 1.80
+Multi-Meter test probles - - 1.25
+Superglue (already owned by me)
+Micro-SD card 64+ GB (already owned by me)
+3 X USB-C cables (already owned by me)
+Short HDMI cable (already owned by me)
+Battery wire red and black (already owned by me)
+Soldering iron, flux, solder, tweezers (already owned by me)
+USB keyboard/mouse (already owned by me)
+
 ****
