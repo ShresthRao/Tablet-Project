@@ -87,7 +87,7 @@ Includes BOM included in Production/assembly files.
 4 X R25-1001102 standoffs for CM4 - - 1.71
 1 X CM4104000 module - - 93.11
 JLCPCB manufactured PCB  - - 279.95
-1 X VIEKK VK1200 V2 device. - - 167.72
+1 X VIEKK VK1200 V2 device. - - 157.25
 Heat shrink tubing kit - - 1.65
 Kapton tape - - 1.03
 Multimeter - - 1.80
