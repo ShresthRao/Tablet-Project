@@ -5,7 +5,7 @@ This project is a custom tablet. It contains a custom PCB and case. The PCB conn
 ## Bill of Materials (BOM)
 
 * Note: All prices are in USD. Production and assembly files contain additional specs where applicable.
-* Note: Bom for Item 4: JLCPCB Custom Manufactured PCB is in /Production/assembly/Custom Tablet_bom_raw.csv , /Production/assembly/Custom Tablet_jlcpcb_bom.csv
+* Note: Bom for Item 4: JLCPCB Custom Manufactured PCB is in /Production/assembly/Custom Tablet_bom_raw.csv, /Production/assembly/Custom Tablet_jlcpcb_bom.csv
 
 ### Purchased Components
 
