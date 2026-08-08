@@ -116,4 +116,19 @@ Soldering iron, flux, solder, tweezers (already owned by me)
 
 USB keyboard/mouse (already owned by me)
 
+
+
+### 📋 Bill of Materials (BOM)
+
+| Item | Qty | Part Name | Specifications / Value | Source / Link | Notes |
+| :--- | :---: | :--- | :--- | :--- | :--- | :--- |
+| 01 | 2 | NOVA 9060100 8000mAh 3.7V Micro LiPo Battery Pack with PCB and 100mm Cable | Lined in parallel, BMS included |  |  |
+| 02 | 1 |  |  |  |  |  |
+| 03 | 1 |  |  |  |  |  |
+| 04 | 1 |  |  |  |  |  |
+| 02 | 1 |  |  |  |  |  |
+| 03 | 1 |  |  |  |  |  |
+| 01 | 1 |  |  |  |  |  |
+| 02 | 1 |  |  |  |  |  |
+| 03 | 1 |  |  |  |  |  |
 ****
