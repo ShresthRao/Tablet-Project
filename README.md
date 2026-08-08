@@ -2,6 +2,34 @@
 ## Description
 This project is a custom tablet. It contains a custom PCB and case. The PCB connects to a CM4 Lite Wireless module for processing and wireless connections. The PCB is connected to a Viekk VK1200 V2 device that is used as the digitiser, stylus and the display.
 
+## Bill of Materials (BOM)
+
+Note: All prices are in USD. Production and assembly files contain additional specs where applicable.
+Note: Bom for Item 4: JLCPCB Custom Manufactured PCB is in /Production/assembly/Custom Tablet_bom_raw.csv , /Production/assembly/Custom Tablet_jlcpcb_bom.csv
+
+### Purchased Components
+
+| Item | Qty | Component | Price (USD) | Link | Description |
+| :---: | :---: | :--- | :---: | :--- | :--- |
+| 1 | 2 | NOVA 9060100 8000mAh 3.7V Micro LiPo Battery Pack with PCB & 100mm Cable (Wired in Parallel) | $18.65 | [Robu.in](https://robu.in/product/nova-9060100-8000mah-3-7v-lipo-battery-pack/) | |
+| 2 | 4 | Harwin R25-1001102 Hex Standoffs (F-F Brass M2.5 11mm for CM4) | $1.71 | [Element14](https://in.element14.com/harwin/r25-1001102/standoff-hex-f-f-brass-m2-5-11mm/dp/3754478) | |
+| 3 | 1 | Raspberry Pi Compute Module 4 (CM4104000 - Lite, 4GB RAM) | $93.11 | [Element14](https://in.element14.com/raspberry-pi/cm4104000/rpi-compute-module-4-lite-4gb/dp/3563487) | |
+| 4 | 1 | JLCPCB Custom Manufactured PCB | $279.95 | [JLCPCB](https://cart.jlcpcb.com/quote?spm=jlcpcb.Public.2006&jlc_vid=TlcPUgdeEgRZAlRTTlRaVAFVFlRZV1IFRFgLAQdVRFIxVlNeQVBYVlxURlZbVDsOAxUeFF5JWAsCBBQFFU8NCAlJ) | |
+| 5 | 1 | VEIKK VK1200 V2 Drawing Tablet | $157.25 | [Amazon](https://www.amazon.in/gp/product/B08G8CKSWK/) | |
+| 6 | 1 | Heat Shrink Tubing Kit (328 pcs) | $1.65 | [Robu.in](https://robu.in/product/328pcs-heat-shrink-tube-heat-shrink-tube-kit/) | |
+| 7 | 1 | High-Temperature Kapton Polyimide Tape (10mm × 33m) | $1.03 | [Robu.in](https://robu.in/product/10mm-33m-100ft-high-temperature-heat-resistant-polyimide-kapton-tape-hot/) | |
+| 8 | 1 | Digital Multimeter (Small LCD, AC/DC) | $1.80 | [Robu.in](https://robu.in/product/digital-multimeter-small-yellow-color-lcd-ac-dc-measuring-voltage-current/) | |
+| 9 | 1 | Multimeter Test Probes | $1.25 | [Robu.in](https://robu.in/product/1-month-warranty-1260/) | |
+| **Total** | | | **$556.40** | | |
+
+### On-Hand Hardware & Tools
+
+* Storage: Micro-SD card (64GB+)
+* Cables: 3x USB-C cables, 1x Short HDMI cable
+* Wiring: Red and Black battery wire
+* Tools & Consumables: Soldering iron, flux, solder, tweezers, superglue
+* Peripherals: USB keyboard and mouse
+
 ## Specifications
 ### Screen:
 11.6 inch
@@ -79,70 +107,5 @@ Raspberry Pi OS (64-bit) with VIEKK drivers
 <img src="Assets/3D%20model%20Assets/Front/Top_Front.png" alt="Top Front View">
 
 <img src="Assets/3D%20model%20Assets/Side/Top_Side.png" alt="Top Side View">
-
-## BOM:
--- All prices in USD --
-Includes BOM included in Production/assembly files.
-
-2 X NOVA 9060100 8000mAh 3.7V Micro LiPo Battery Pack with PCB and 100mm Cable batteries lined in paralell. - - 18.65 - - https://robu.in/product/nova-9060100-8000mah-3-7v-lipo-battery-pack/
-
-4 X R25-1001102 standoffs for CM4 - - 1.71 - - https://in.element14.com/harwin/r25-1001102/standoff-hex-f-f-brass-m2-5-11mm/dp/3754478
-
-1 X CM4104000 module - - 93.11 - - https://in.element14.com/raspberry-pi/cm4104000/rpi-compute-module-4-lite-4gb/dp/3563487
-
-JLCPCB manufactured PCB  - - 279.95 - - https://cart.jlcpcb.com/quote?spm=jlcpcb.Public.2006&jlc_vid=TlcPUgdeEgRZAlRTTlRaVAFVFlRZV1IFRFgLAQdVRFIxVlNeQVBYVlxURlZbVDsOAxUeFF5JWAsCBBQFFU8NCAlJ
-
-1 X VIEKK VK1200 V2 device. - - 157.25 - - https://www.amazon.in/gp/product/B08G8CKSWK/ref=ox_sc_act_title_1?smid=AD6J8GIVOM2WC&psc=1
-
-Heat shrink tubing kit - - 1.65 - - https://robu.in/product/328pcs-heat-shrink-tube-heat-shrink-tube-kit/
-
-Kapton tape - - 1.03 - - https://robu.in/product/10mm-33m-100ft-high-temperature-heat-resistant-polyimide-kapton-tape-hot/
-
-Multimeter - - 1.80 - - https://robu.in/product/digital-multimeter-small-yellow-color-lcd-ac-dc-measuring-voltage-current/
-
-Multi-Meter test probles - - 1.25 - - https://robu.in/product/1-month-warranty-1260/
-
-Superglue (already owned by me)
-
-Micro-SD card 64+ GB (already owned by me)
-
-3 X USB-C cables (already owned by me)
-
-Short HDMI cable (already owned by me)
-
-Battery wire red and black (already owned by me)
-
-Soldering iron, flux, solder, tweezers (already owned by me)
-
-USB keyboard/mouse (already owned by me)
-
-
-## Bill of Materials (BOM)
-
-> **Note:** All prices are in USD. Production and assembly files contain additional specs where applicable.
-
-### Purchased Components
-
-| Qty | Component Description | Price (USD) | Link |
-| :---: | :--- | :---: | :--- |
-| 2 | NOVA 9060100 8000mAh 3.7V Micro LiPo Battery Pack with PCB & 100mm Cable (Wired in Parallel) | $18.65 | [Robu.in](https://robu.in/product/nova-9060100-8000mah-3-7v-lipo-battery-pack/) |
-| 4 | Harwin R25-1001102 Hex Standoffs (F-F Brass M2.5 11mm for CM4) | $1.71 | [Element14](https://in.element14.com/harwin/r25-1001102/standoff-hex-f-f-brass-m2-5-11mm/dp/3754478) |
-| 1 | Raspberry Pi Compute Module 4 (CM4104000 - Lite, 4GB RAM) | $93.11 | [Element14](https://in.element14.com/raspberry-pi/cm4104000/rpi-compute-module-4-lite-4gb/dp/3563487) |
-| 1 | JLCPCB Custom Manufactured PCB | $279.95 | [JLCPCB](https://cart.jlcpcb.com/quote?spm=jlcpcb.Public.2006&jlc_vid=TlcPUgdeEgRZAlRTTlRaVAFVFlRZV1IFRFgLAQdVRFIxVlNeQVBYVlxURlZbVDsOAxUeFF5JWAsCBBQFFU8NCAlJ) |
-| 1 | VEIKK VK1200 V2 Drawing Tablet | $157.25 | [Amazon](https://www.amazon.in/gp/product/B08G8CKSWK/) |
-| 1 | Heat Shrink Tubing Kit (328 pcs) | $1.65 | [Robu.in](https://robu.in/product/328pcs-heat-shrink-tube-heat-shrink-tube-kit/) |
-| 1 | High-Temperature Kapton Polyimide Tape (10mm × 33m) | $1.03 | [Robu.in](https://robu.in/product/10mm-33m-100ft-high-temperature-heat-resistant-polyimide-kapton-tape-hot/) |
-| 1 | Digital Multimeter (Small LCD, AC/DC) | $1.80 | [Robu.in](https://robu.in/product/digital-multimeter-small-yellow-color-lcd-ac-dc-measuring-voltage-current/) |
-| 1 | Multimeter Test Probes | $1.25 | [Robu.in](https://robu.in/product/1-month-warranty-1260/) |
-| **Total** | | **$556.40** | |
-
-### On-Hand Hardware & Tools
-
-* **Storage:** Micro-SD card (64GB+)
-* **Cables:** 3× USB-C cables, 1× Short HDMI cable
-* **Wiring:** Red and Black battery wire
-* **Tools & Consumables:** Soldering iron, flux, solder, tweezers, superglue
-* **Peripherals:** USB keyboard and mouse
-
 
 ****
