@@ -11,7 +11,7 @@ Note: Bom for Item 4: JLCPCB Custom Manufactured PCB is in /Production/assembly/
 
 | Item | Qty | Component | Price (USD) | Link | Description |
 | :---: | :---: | :--- | :---: | :--- | :--- |
-| 1 | 2 | NOVA 9060100 8000mAh 3.7V Micro LiPo Battery Pack with PCB & 100mm Cable (Wired in Parallel) | $18.65 | [Robu.in](https://robu.in/product/nova-9060100-8000mah-3-7v-lipo-battery-pack/) | |
+| 1 | 2 | NOVA 9060100 8000mAh 3.7V Micro LiPo Battery Pack with PCB & 100mm Cable (Wired in Parallel) | $18.65 | [Robu.in](https://robu.in/product/nova-9060100-8000mah-3-7v-lipo-battery-pack/) |  |
 | 2 | 4 | Harwin R25-1001102 Hex Standoffs (F-F Brass M2.5 11mm for CM4) | $1.71 | [Element14](https://in.element14.com/harwin/r25-1001102/standoff-hex-f-f-brass-m2-5-11mm/dp/3754478) | |
 | 3 | 1 | Raspberry Pi Compute Module 4 (CM4104000 - Lite, 4GB RAM) | $93.11 | [Element14](https://in.element14.com/raspberry-pi/cm4104000/rpi-compute-module-4-lite-4gb/dp/3563487) | |
 | 4 | 1 | JLCPCB Custom Manufactured PCB | $279.95 | [JLCPCB](https://cart.jlcpcb.com/quote?spm=jlcpcb.Public.2006&jlc_vid=TlcPUgdeEgRZAlRTTlRaVAFVFlRZV1IFRFgLAQdVRFIxVlNeQVBYVlxURlZbVDsOAxUeFF5JWAsCBBQFFU8NCAlJ) | |
