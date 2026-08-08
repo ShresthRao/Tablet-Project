@@ -13,13 +13,13 @@ Note: Bom for Item 4: JLCPCB Custom Manufactured PCB is in /Production/assembly/
 | :---: | :---: | :--- | :---: | :--- | :--- |
 | 1 | 2 | NOVA 9060100 8000mAh 3.7V Micro LiPo Battery Pack with PCB & 100mm Cable (Wired in Parallel) | $18.65 | [Robu.in](https://robu.in/product/nova-9060100-8000mah-3-7v-lipo-battery-pack/) | Lined in Parallel |
 | 2 | 4 | Harwin R25-1001102 Hex Standoffs (F-F Brass M2.5 11mm for CM4) | $1.71 | [Element14](https://in.element14.com/harwin/r25-1001102/standoff-hex-f-f-brass-m2-5-11mm/dp/3754478) | Standoffs for CM4 module |
-| 3 | 1 | Raspberry Pi Compute Module 4 (CM4104000 - Lite, 4GB RAM) | $93.11 | [Element14](https://in.element14.com/raspberry-pi/cm4104000/rpi-compute-module-4-lite-4gb/dp/3563487) |  |
-| 4 | 1 | JLCPCB Custom Manufactured PCB | $279.95 | [JLCPCB](https://cart.jlcpcb.com/quote?spm=jlcpcb.Public.2006&jlc_vid=TlcPUgdeEgRZAlRTTlRaVAFVFlRZV1IFRFgLAQdVRFIxVlNeQVBYVlxURlZbVDsOAxUeFF5JWAsCBBQFFU8NCAlJ) | |
-| 5 | 1 | VEIKK VK1200 V2 Drawing Tablet | $157.25 | [Amazon](https://www.amazon.in/gp/product/B08G8CKSWK/) | |
-| 6 | 1 | Heat Shrink Tubing Kit (328 pcs) | $1.65 | [Robu.in](https://robu.in/product/328pcs-heat-shrink-tube-heat-shrink-tube-kit/) | |
-| 7 | 1 | High-Temperature Kapton Polyimide Tape (10mm × 33m) | $1.03 | [Robu.in](https://robu.in/product/10mm-33m-100ft-high-temperature-heat-resistant-polyimide-kapton-tape-hot/) | |
-| 8 | 1 | Digital Multimeter (Small LCD, AC/DC) | $1.80 | [Robu.in](https://robu.in/product/digital-multimeter-small-yellow-color-lcd-ac-dc-measuring-voltage-current/) | |
-| 9 | 1 | Multimeter Test Probes | $1.25 | [Robu.in](https://robu.in/product/1-month-warranty-1260/) | |
+| 3 | 1 | Raspberry Pi Compute Module 4 (CM4104000 - Lite, 4GB RAM) | $93.11 | [Element14](https://in.element14.com/raspberry-pi/cm4104000/rpi-compute-module-4-lite-4gb/dp/3563487) | Compute module |
+| 4 | 1 | JLCPCB Custom Manufactured PCB | $279.95 | [JLCPCB](https://cart.jlcpcb.com/quote?spm=jlcpcb.Public.2006&jlc_vid=TlcPUgdeEgRZAlRTTlRaVAFVFlRZV1IFRFgLAQdVRFIxVlNeQVBYVlxURlZbVDsOAxUeFF5JWAsCBBQFFU8NCAlJ) | Custom PCB Ordered through JLCPCB |
+| 5 | 1 | VEIKK VK1200 V2 Drawing Tablet | $157.25 | [Amazon](https://www.amazon.in/gp/product/B08G8CKSWK/) | The Screen, Digitiser and Stylus |
+| 6 | 1 | Heat Shrink Tubing Kit (328 pcs) | $1.65 | [Robu.in](https://robu.in/product/328pcs-heat-shrink-tube-heat-shrink-tube-kit/) | Protection against short circuits |
+| 7 | 1 | High-Temperature Kapton Polyimide Tape (10mm × 33m) | $1.03 | [Robu.in](https://robu.in/product/10mm-33m-100ft-high-temperature-heat-resistant-polyimide-kapton-tape-hot/) | Insulation |
+| 8 | 1 | Digital Multimeter (Small LCD, AC/DC) | $1.80 | [Robu.in](https://robu.in/product/digital-multimeter-small-yellow-color-lcd-ac-dc-measuring-voltage-current/) | Tool to check for battery voltage and proper functionality |
+| 9 | 1 | Multimeter Test Probes | $1.25 | [Robu.in](https://robu.in/product/1-month-warranty-1260/) | Probes for multimeter |
 | Total | | | $565 (accounted for future price changes) | | |
 
 ### On-Hand Hardware & Tools
